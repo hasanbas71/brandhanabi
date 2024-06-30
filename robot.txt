@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: http://fatamorgana.co.id/sitemap.xml
